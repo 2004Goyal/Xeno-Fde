@@ -69,7 +69,7 @@ Email: you@example.com
 Password: Strong@123
 ```
 ## 📊 Architecture Diagram
-![Architecture Diagram](docs/architecture_diagram.png)
+![Architecture Diagram](/architecture_diagram.png)
 
 ### 📡 API Endpoints
 
